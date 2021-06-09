@@ -1,7 +1,11 @@
 # Secure_bank  
 
-![alt text](https://github.com/nabaratanpatra/GRIP_sparks_foundation/tree/master/images/bank.jpg?raw=true)
+![alt text](https://patra-project.000webhostapp.com/images/llo.png)
 
+
+# Working of the Website 
+
+https://patra-project.000webhostapp.com/  
 
 
 This is Basic Banking System which is simply degined for the customer interaction and smooth evaluation of the bank processing. #Task1 #GRIPJUNE2021
